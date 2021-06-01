@@ -1,5 +1,5 @@
 formspree_form_id: formspree_form_id
-name: 3RD-HONKAIVERSE
+name: 3RD_HONKAIVERSE
 title: 3RD-HONKAIVERSE | Download Honkai 3rd and Genshin Impact music!
 description: Download Honkai 3rd and Genshin Impact game music, ost, bgm, and other audio!
 tags:
@@ -20,7 +20,7 @@ tags:
   - openworld
   - anime
   - blog
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
