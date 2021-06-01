@@ -1,26 +1,32 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+formspree_form_id: formspree_form_id
+name: 3RD-HONKAIVERSE
+title: 3RD-HONKAIVERSE | Download Honkai 3rd and Genshin Impact music!
+description: Download Honkai 3rd and Genshin Impact game music, ost, bgm, and other audio!
 tags:
+  - honkai
+  - genshin
+  - music
+  - bgm
+  - ost
+  - honkaiimpact
+  - honkaiimpact3
+  - honkaiimpact3rd
+  - honkai3rd
+  - genshinimpact
+  - genshin_impact
+  - game
+  - mobile
+  - arpg
+  - openworld
+  - anime
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: ""
+disqus_username: ""
