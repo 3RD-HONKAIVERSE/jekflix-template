@@ -21,7 +21,7 @@ tags:
   - openworld
   - anime
   - blog
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /
