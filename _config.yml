@@ -33,12 +33,6 @@ email: ""
 disqus_username: ""
 
 
-# Social Media Settings
-# Remove the item if you don't need it
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-
 # Posts Settings
 show_time_bar: false
 show_modal_on_exit: false
