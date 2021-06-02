@@ -4,7 +4,7 @@ layout: post
 title: Hello Everybody
 subtitle: Beautiful Day
 description: New day, new experience
-image: /assets/img/uploads/0-3-.webp
+image: /assets/img/uploads/earth.jpg
 optimized_image: ""
 category: life
 tags:
