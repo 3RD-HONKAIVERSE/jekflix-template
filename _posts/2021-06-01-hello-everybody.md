@@ -5,7 +5,7 @@ title: Hello Everybody
 subtitle: Beautiful Day
 description: New day, new experience
 image: /assets/img/uploads/earth.jpg
-optimized_image: /assets/img/uploads/earth-1-.jpg
+optimized_image: https://i.postimg.cc/cCyjTwVZ/Webp-net-resizeimage-1.jpg
 category: life
 tags:
   - work
