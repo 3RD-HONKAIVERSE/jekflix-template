@@ -4,8 +4,8 @@ layout: post
 title: Hello Everybody
 subtitle: Beautiful Day
 description: New day, new experience
-image: https://i.postimg.cc/j2TT89bc/Zhong-Li-ART-1-1.png
-optimized_image: https://i.postimg.cc/j2TT89bc/Zhong-Li-ART-1-1.png
+image: /assets/img/uploads/0-3-.webp
+optimized_image: ""
 category: life
 tags:
   - work
