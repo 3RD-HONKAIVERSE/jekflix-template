@@ -22,6 +22,7 @@ tags:
   - anime
   - blog
 show_hero: false
+paginate: 12
 menu:
   - title: Home
     url: /
